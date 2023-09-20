@@ -7,7 +7,7 @@
 * Update profile
 * Delete profile
 
-#A partner can:
+**A partner can:
 * View profile
 * Signup
 * Login
