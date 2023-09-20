@@ -1,24 +1,24 @@
 # wd-mandatory-1
 
-**An user can:
+**An user can:**
 * View profile
 * Signup
 * Login
 * Update profile
 * Delete profile
 
-**A partner can:
+**A partner can:**
 * View profile
 * Signup
 * Login
 * Update profile
 * Delete profile
 
-#An admin can:
+**An admin can:**
 * View all users
 * Block/unblock an user
 
-#The system must have:
+**The system must have:**
 * Front-end validation
 * Back-end validation
 * Text message for new users
