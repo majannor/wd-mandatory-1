@@ -2,17 +2,17 @@
 
 ##An user can:
 * View profile
-*Signup
-*Login
-*Update profile
-*Delete profile
+* Signup
+* Login
+* Update profile
+* Delete profile
 
 #A partner can:
-*View profile
-*Signup
-*Login
-*Update profile
-*Delete profile
+* View profile
+* Signup
+* Login
+* Update profile
+* Delete profile
 
 #An admin can:
 View all users
