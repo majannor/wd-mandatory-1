@@ -15,10 +15,10 @@
 * Delete profile
 
 #An admin can:
-View all users
-Block/unblock an user
+* View all users
+* Block/unblock an user
 
 #The system must have:
-Front-end validation
-Back-end validation
-Text message for new users
+* Front-end validation
+* Back-end validation
+* Text message for new users
