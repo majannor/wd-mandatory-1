@@ -1,7 +1,7 @@
 # wd-mandatory-1
 
 ##An user can:
-*View profile
+* View profile
 *Signup
 *Login
 *Update profile
